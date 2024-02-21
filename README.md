@@ -9,7 +9,7 @@ The project will help us make data-driven decisions, track our loan portfolio's 
 and identify trends that can inform our lending strategies.
 
 
-Key Performance Indicators (KPIs) are used within the bank loan report dashboard to quantify and analyze critical aspects of loan portfolio performance
+Key Performance Indicators (KPIs) are used within the bank loan report dashboard to quantify and analyze critical aspects of loan portfolio performance.
 
 
 ## Tools
