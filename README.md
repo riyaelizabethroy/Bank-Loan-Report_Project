@@ -9,8 +9,7 @@ The project will help us make data-driven decisions, track our loan portfolio's 
 and identify trends that can inform our lending strategies.
 
 
-Key Performance Indicators (KPIs) are used within the bank loan report 
-dashboard to quantify and analyze critical aspects of loan portfolio performance
+Key Performance Indicators (KPIs) are used within the bank loan report dashboard to quantify and analyze critical aspects of loan portfolio performance
 
 
 ## Tools
@@ -20,7 +19,7 @@ We'll be using mssql to formulate SQL queries to extract relevant information fo
 ## Description
 
 Asking questions to uncover patterns
-We start our analysis by asking questions relevant to the topic to uncover patterns and find the results through SQL queries
+We start our analysis by asking questions relevant to the topic to uncover patterns and find the results through SQL queries.
 
 1.	Total Loan Applications: We need to calculate the total number of loan applications received during a specified period.  Monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
 2.	Total Loan Applications: We need to calculate the total number of loan applications received during a specified period.
@@ -52,7 +51,8 @@ These are divided into summary, overview and detailed visualization.
 
 DASHBOARD 1: SUMMARY
 
-![Summary](https://github.com/riyaelizabethroy/Bank-Loan-Report_Project/assets/158080994/dc467008-a09b-4077-8643-e8c05d10b335)
+![Summary](https://github.com/riyaelizabethroy/Bank-Loan-Report_Project/assets/158080994/2f559a5d-58b1-4690-92c5-a77f74dfb1e8)
+
 
 DASHBOARD 2: OVERVIEW
 
@@ -63,16 +63,17 @@ DASHBOARD 2: OVERVIEW
 5. Loan Purpose Breakdown (Bar Chart)
 6. Home Ownership Analysis (Tree Map)
 
-![Overview](https://github.com/riyaelizabethroy/Bank-Loan-Report_Project/assets/158080994/5603e7a5-c485-494f-9c10-3b21e25026e7)
+![Overview](https://github.com/riyaelizabethroy/Bank-Loan-Report_Project/assets/158080994/d1fe8b02-9cee-40f7-b70f-2f0da851326d)
 
 
 DASHBOARD 3: DETAILS
 
 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data.
 
-![Details](https://github.com/riyaelizabethroy/Bank-Loan-Report_Project/assets/158080994/690b4fd3-28fd-4767-a3d3-f208d04e65a7)
+![Details](https://github.com/riyaelizabethroy/Bank-Loan-Report_Project/assets/158080994/4949507e-fe56-4232-aaf4-432f7d2ef61d)
 
 
 ### Result
 
 This Project will serve as a one-stop solution for Bank seeking detailed insights into loan portfolio, borrower profiles, and loan performance. With this information, they can make decisions and shape the lending strategy.
+
