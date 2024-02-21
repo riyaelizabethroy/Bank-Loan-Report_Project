@@ -1,3 +1,4 @@
+## Bank Loan Report
 Dashboard Link: https://public.tableau.com/views/BankloanSummary/Summary?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Goal
@@ -14,7 +15,7 @@ Key Performance Indicators (KPIs) are used within the bank loan report dashboard
 
 ## Tools
 
-We'll be using mssql to formulate SQL queries to extract relevant information for analysis and Tableau for creating Dashboards.
+Ms sql to formulate SQL queries to extract relevant information for analysis and Tableau for creating Dashboards.
 
 ## Description
 
